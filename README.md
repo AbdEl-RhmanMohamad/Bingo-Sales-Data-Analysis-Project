@@ -1,5 +1,7 @@
 # Bingo-Sales-Data-Analysis-Project
 
+![1631304457637](https://github.com/user-attachments/assets/4443fd35-a07e-43b7-b59a-255e540ba51e)
+
 ## Overview
 This project involves analyzing retail sales data collected monthly from February to May. The analysis includes data cleaning, transformation, and visualization using Excel, SQL Server, SSIS, and Power BI.
 
