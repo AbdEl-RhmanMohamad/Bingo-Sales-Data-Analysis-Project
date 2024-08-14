@@ -36,6 +36,10 @@ This project involves analyzing retail sales data collected monthly from Februar
 ## Power BI
 - **Dashboard**: Connected to the DWH and created a descriptive analysis dashboard, focusing on design and usability. [here](https://app.powerbi.com/view?r=eyJrIjoiMjI5NTZkNWUtMmJjMy00ZThkLThhNzQtMDAxMDRmOTE2OTEzIiwidCI6ImQxZjQ1MDM5LTJhNDQtNDAwNy1hZDViLTM3NjEyNWI0N2Q1YiJ9)
 
+![Screenshot 2024-01-23 213727](https://github.com/user-attachments/assets/06519985-775a-4921-9122-272f131b000f)
+
+![Screenshot 2024-01-23 213754](https://github.com/user-attachments/assets/6b4666af-901f-45b5-a43c-4aeaf9704f4a)
+
 
 ## Presentation
 - **Process Explanation**: Provided a brief presentation explaining the thought process and work during the task.
